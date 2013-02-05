@@ -15,5 +15,3 @@ def divisible
 end
 
 divisible
-
- 
